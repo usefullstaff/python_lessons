@@ -1,0 +1,43 @@
+{
+	"music":
+		{
+		"bands" : 
+			[
+				{"name":"Aerosmith", "start_year":"1964", "type": "band"},
+				{"name":"Queen" , "start_year":"1970", "type": "band"},
+				{"name":"Bon Jovi", "start_year":"1983", "type": "band"},
+				{"name":"Ben Nichols", "start_year":"2010", "type":"artist" },
+				{"name":"Papa Roach", "start_year":"1993", "type": "band"},
+				{"name":"Owl City", "start_year":"2002", "type": "artist"},
+				{"name":"Red", "start_year":"2002", "type": "band"}
+			],
+
+
+
+
+		"songs":
+			[
+				{"name":"Last cigarette", "artist": "Bon Jovi"},
+				{"name":"The Distance", "artist": "Bon Jovi"},
+				{"name":"I Am", "artist": "Bon Jovi"},
+				{"name":"The Last Night", "artist": "Bon Jovi"},
+
+				{"name":"Angel", "artist": "Aerosmith"},
+				{"name":"We All Fall Down", "artist": "Aerosmith"},
+				{"name":"i don't wanna miss a thing lyrics", "artist": "Aerosmith"},
+
+				{"name":"To the sky",  "artist": "Owl City"},
+				{"name":"Take It All Away",  "artist": "Owl City"},
+				{"name":"Wolf Bite",  "artist": "Owl City"},
+
+				{"name":"Hymn for the missing", "artist": "Red"},
+
+
+				{"name":"Last pale light in the west", "artist": "Ben Nichols"},
+				{"name":"Kid", "artist": "Ben Nichols"},
+
+				{"name":"American Dream", "artist": "Papa Roach"},
+				{"name":"Leader of a broken hearths", "artist": "Papa Roach"}
+			]
+		}
+}
