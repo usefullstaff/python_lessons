@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>main page</title>
+</head>
+<body>
+
+
+<header>
+	<nav>
+		<a href="/">Главная</a>
+	</nav>
+</header>
+{%for band in bands %}
+<ul>
+	<li>
+		<a href="/{{band[0]}}">{{band[0]}}</a>
+	</li>
+
+</ul>
+{%endfor%}
+</body>
+</html>
